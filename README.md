@@ -1,5 +1,4 @@
-### Hi, I'm Olof 👋
-![profile png](https://user-images.githubusercontent.com/61093694/122748786-e0944580-d28c-11eb-88d5-d4753c39654f.jpg)
+### 👋 Hi, I'm Olof 👋
 
 ## I am currently inbetween my bachelor and master thesis, looking to improve my codingskills!
 
