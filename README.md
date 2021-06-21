@@ -8,7 +8,7 @@ In my profile you'll find some projects I've been working on, check them out! I 
 
 ### If you want to know more about me, check out my website or contact me as below:
 🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
 📫 [Mail][mail]
 
 
