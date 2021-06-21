@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Olof 👋
+# 👋 Hi, I'm Olof 👋
 
 ## I am currently inbetween my bachelor and master thesis, looking to improve my codingskills!
 
@@ -6,7 +6,7 @@ In my profile you'll find some projects I've been working on, check them out! I 
 
 [vader]: https://github.com/OLGJ/S-A_Vader
 
-# If you want to know more about me, check out my website or contact me as below:
+### If you want to know more about me, check out my website or contact me as below:
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 📫 [Mail][mail]
