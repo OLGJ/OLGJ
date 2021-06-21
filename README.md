@@ -13,11 +13,7 @@ In my profile you'll find some projects I've been working on, check them out! I 
 
 
 [website]: https://olof.com
-[linkedin]: https://linkedin.com/in/olofjosefsson
+[linkedin]: https://www.linkedin.com/in/olof-josefsson-391522121/
 [mail]: mailto:olof.josefsson@outlook.com
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=OLGJ&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLGJ&layout=compact&theme=dark&hide_border=true)
