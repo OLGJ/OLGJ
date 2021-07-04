@@ -12,7 +12,7 @@ In my profile you'll find some projects I've been working on, check them out! I 
 📫 [Mail][mail]
 
 
-[website]: https://olof.com
+[website]: https://www.olgj.org/
 [linkedin]: https://www.linkedin.com/in/olof-josefsson-391522121/
 [mail]: mailto:olof.josefsson@outlook.com
 
