@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olof 👋
 
-## I am currently studying my master's degree in Statistics & Machine learning. But as a side note I enjoy improve my codingskills!
+## I am currently studying my master's degree in Statistics & Machine learning. As a side note I enjoy improving my codingskills!
 
 In my profile you'll find some projects I've been working on, check them out! I can recommend [S-A_Vader][vader], my bachelor thesis where I conducted semantic analysis on comments regarding stocks from wallstreetbets, and how this relates to traded volume.
 
