@@ -11,5 +11,3 @@
 [website]: https://www.olgj.org/
 [linkedin]: https://www.linkedin.com/in/olof-josefsson-391522121/
 [mail]: mailto:olof.josefsson@outlook.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLGJ&layout=compact&theme=dark&hide_border=true)
