@@ -2,7 +2,7 @@
 
 ## Currently working as a consultant within Digital & Emerging tech at EY.
 
-## I have Master's degree in Statistics & Machine learning at Linköpings University. 
+### I have Master's degree in Statistics & Machine learning at Linköpings University. 
 
 ### If you want to know more about me, check out my website or contact me as below:
 🏡 [website][website] **|** 
