@@ -10,6 +10,6 @@
 📫 [Mail][mail]
 
 
-[website]: https://www.olgj.org/
+[website]: https://www.olofjosefsson.com/
 [linkedin]: https://www.linkedin.com/in/olof-josefsson-391522121/
 [mail]: mailto:olof.josefsson@outlook.com
